@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import ApiClient from "../Services/ApiClient";
 import {
   Card,
-  CardHeader,
   CardBody,
   CardFooter,
   Image,
